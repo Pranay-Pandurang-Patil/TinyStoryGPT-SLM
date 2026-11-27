@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+matplotlib
+jupyter
+tqdm
+datasets
+tiktoken
+transformers
+peft
+accelerate
+safetensors
